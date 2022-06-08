@@ -15,3 +15,8 @@ Data on mistral:
 Follow the Docker instructions to pull or update the image.
 
 Follow the Jupyterhub instructions to get started with a notebook.
+
+Model based on 
+
+https://github.com/VSainteuf/lightweight-temporal-attention-pytorch
+https://github.com/VSainteuf/pytorch-psetae
